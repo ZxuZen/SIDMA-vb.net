@@ -1,0 +1,14 @@
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\bin\Debug\SIDMA_V3.exe.config
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\bin\Debug\SIDMA_V3.exe
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\bin\Debug\SIDMA_V3.pdb
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\bin\Debug\SIDMA_V3.xml
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.vbproj.AssemblyReference.cache
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.Login.resources
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.Resources.resources
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.vbproj.GenerateResource.cache
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.exe
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.xml
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.pdb
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.InputData.resources
+D:\Kuliah\Matkul\Pemrograman Visual\Tugas\Project\SIDMA_V3\SIDMA_V3\obj\Debug\SIDMA_V3.TabelList.resources
